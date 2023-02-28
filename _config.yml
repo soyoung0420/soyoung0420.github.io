@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "YoungLog"
-title_separator          : "Study log"
+title                    : "Soyoung log"
+title_separator          : "Study record"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Younglog"
+name                     : "soyoung0420"
 description              : "아직은 ppppppre developer"
-url                      : "younglog.github.io"
+url                      : "soyoung0420.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
